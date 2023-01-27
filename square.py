@@ -2,7 +2,7 @@
 
 x = int(input("What number do you want to square? "))
 
-def square2(x):
+def square(x):
     return x*x
 
-print(square2(x))
+print(square(x))
