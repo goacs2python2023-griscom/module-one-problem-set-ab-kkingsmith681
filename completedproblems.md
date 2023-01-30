@@ -6,5 +6,5 @@ List of completed problems
 4. tipcalculator.py
 5. fundraiser.py
 6. roadtrip.py
-7.
-8.
+7. earlierdate.py
+8. 
